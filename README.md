@@ -2,14 +2,14 @@
 
 Descrição: 
 The package image_processing is used to:
-	- Match histogram
-	- Structural similarity
-	- Resize image
-	- Plot image
-	- Plot histogram
-	- Plot results
-	- Save image
-	- Read image
+	- Match histogram<br />
+	- Structural similarity<br />
+	- Resize image<br />
+	- Plot image<br />
+	- Plot histogram<br />
+	- Plot results<br />
+	- Save image<br />
+	- Read image<br />
 
 ## Instalação
 
