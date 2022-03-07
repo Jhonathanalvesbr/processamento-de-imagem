@@ -20,7 +20,7 @@ pip install image_processing
 ```
 
 ## Author
-Karina Tiemi
+Jhonathan Alves
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
