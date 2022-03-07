@@ -1,6 +1,6 @@
 # Processamento de Imagem
 
-Description. 
+Descrição: 
 The package image_processing is used to:
 	- Match histogram
 	- Structural similarity
@@ -11,7 +11,7 @@ The package image_processing is used to:
 	- Save image
 	- Read image
 
-## Installation
+## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
