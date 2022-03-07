@@ -13,7 +13,7 @@ The package image_processing is used to:
 
 ## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use o pacote de instalação [pip](https://pip.pypa.io/en/stable/) para a instalação, por exemplo:
 
 ```bash
 pip install image_processing
