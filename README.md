@@ -1,7 +1,7 @@
 # Processamento de Imagem
 
 Descrição: 
-The package image_processing is used to:
+O pacotede de processamento de imagem é usado para:
 	- Match histogram<br />
 	- Structural similarity<br />
 	- Resize image<br />
