@@ -1,6 +1,6 @@
 # Processamento de Imagem
 
-Descrição: 
+Descrição:<br />
 O pacotede de processamento de imagem é usado para:<br />
 	- Match histogram<br />
 	- Structural similarity<br />
