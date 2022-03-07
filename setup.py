@@ -7,16 +7,16 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing",
+    name="processamento_de_imagem",
     version="0.0.1",
     author="Jhonathan Alves",
     description="Processamento de imagem usando combinação de histograma",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tiemi/image-processing-package",
+    url="https://github.com/Jhonathanalvesbr/processamento-de-imagem",
     packages=find_packages(),
     package_data = {
-        "image_processing": ["sample_images/*.jpg"]
+        "processamento_de_imagem": ["sample_images/*.jpg"]
     },
     include_package_data = True,
     install_requires=requirements,
