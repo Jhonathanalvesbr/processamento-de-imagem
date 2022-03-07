@@ -1,7 +1,7 @@
 # Processamento de Imagem
 
 Descrição: 
-O pacotede de processamento de imagem é usado para:
+O pacotede de processamento de imagem é usado para:<br />
 	- Match histogram<br />
 	- Structural similarity<br />
 	- Resize image<br />
