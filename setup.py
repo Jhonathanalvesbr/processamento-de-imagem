@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="processamento_de_imagem",
-    version="0.0.1",
+    version="0.0.2",
     author="Jhonathan Alves",
     description="Processamento de imagem usando combinação de histograma",
     long_description=page_description,
