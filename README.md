@@ -1,15 +1,14 @@
 # Processamento de Imagem
 
-Descrição:<br />
 O pacotede de processamento de imagem é usado para:<br />
-	- Match histogram<br />
-	- Structural similarity<br />
-	- Resize image<br />
-	- Plot image<br />
-	- Plot histogram<br />
-	- Plot results<br />
-	- Save image<br />
-	- Read image<br />
+	- Corresponder histograma<br />
+	- Semelhança estrutural<br />
+	- Redimensionar imagem<br />
+	- Plot de imagem<br />
+	- Plot de histogram<br />
+	- Plot de resultados<br />
+	- Salvar imagem<br />
+	- Carregar imagem<br />
 
 ## Instalação
 
